@@ -82,9 +82,8 @@ git clone https://github.com/your-username/farm-to-table.git
 cd farm-to-table
 npm install
 npm run dev
-
+```
 ---
-
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/147340cb-f682-4f58-9f0b-7f7882d33d3e)
