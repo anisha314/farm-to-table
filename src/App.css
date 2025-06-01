@@ -1,0 +1,27 @@
+/* Make html and body take full height */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* The app container fills viewport height and uses flex column */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Full viewport height */
+}
+
+/* Content expands to fill remaining space */
+.app-content {
+  flex: 1;
+  padding: 20px;
+}
+
+/* Footer styling */
+.app-footer {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 15px 20px;
+}
