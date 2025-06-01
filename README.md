@@ -28,38 +28,43 @@
 
 ## 📁 Folder Structure
 
+## 📁 Folder Structure
+
+```plaintext
 farm-to-table/
 ├── public/
-│ └── index.html
+│   └── index.html
 ├── src/
-│ ├── assets/
-│ │ └── images/ # All static images
-│ ├── components/
-│ │ ├── Header.jsx
-│ │ ├── Footer.jsx
-│ │ ├── ProductCard.jsx
-│ │ └── ...
-│ ├── context/
-│ │ └── CartContext.js # Context API setup
-│ ├── pages/
-│ │ ├── Home.jsx
-│ │ ├── Products.jsx
-│ │ ├── Cart.jsx
-│ │ ├── AddProduct.jsx
-│ │ └── ...
-│ ├── routes/
-│ │ └── AppRoutes.jsx # All Route definitions
-│ ├── services/
-│ │ └── api.js # API functions for Firebase
-│ ├── styles/
-│ │ └── global.css # Common styles
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── ...
+│   ├── assets/
+│   │   └── images/             # All static images
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── Footer.jsx
+│   │   ├── ProductCard.jsx
+│   │   └── ...
+│   ├── context/
+│   │   └── CartContext.js      # Context API setup
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Products.jsx
+│   │   ├── Cart.jsx
+│   │   ├── AddProduct.jsx
+│   │   └── ...
+│   ├── routes/
+│   │   └── AppRoutes.jsx       # All Route definitions
+│   ├── services/
+│   │   └── api.js              # API functions for Firebase
+│   ├── styles/
+│   │   └── global.css          # Common styles
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── ...
 ├── .gitignore
 ├── README.md
 ├── package.json
 └── vite.config.js
+```
+
 
 
 
