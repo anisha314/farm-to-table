@@ -13,6 +13,16 @@
 
 ---
 
+## Deplolyed App
+Netlify Link: https://farmto-table.netlify.app/
+
+--
+
+## Video Walkthrough of the project
+https://youtu.be/piuuC3SjaMU
+
+--
+
 ## 🛠 Tech Stack
 
 | Category       | Technology                  |
